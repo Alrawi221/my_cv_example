@@ -26,7 +26,7 @@ packages:
     source: hosted
     version: "1.3.0"
   clay_containers:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: clay_containers
       sha256: "84039b8afd1ab168caaefee862611810add7e77a6c6d03d02788a56bd60e76c1"
